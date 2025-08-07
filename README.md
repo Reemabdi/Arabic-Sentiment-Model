@@ -12,8 +12,11 @@ This project implements an Arabic sentiment analysis model using machine learnin
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/Arabic-Sentiment-Analysis.git
-cd Arabic-Sentiment-Analysis
+
+   ```bash
+   git clone https://github.com/Reemabdi/Arabic-Sentiment-Model.git
+   cd Arabic-Sentiment-Model
+
 2. pip install -r requirements.txt
 3. streamlit run app.py
 
