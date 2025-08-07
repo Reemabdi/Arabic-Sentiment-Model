@@ -18,5 +18,12 @@ This project implements an Arabic sentiment analysis model using machine learnin
    cd Arabic-Sentiment-Model
 
 2. pip install -r requirements.txt
-3. streamlit run app.py
+   
+## Usage
+
+Run the Streamlit app:
+
+```bash
+streamlit run app.py
+
 
